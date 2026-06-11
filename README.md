@@ -8,11 +8,11 @@ A React.js implementation of the PopX mobile application UI based on the provide
 
 ## Live Demo
 
-https://YOUR-VERCEL-LINK.vercel.app
+https://popx-react-app-eta.vercel.app
 
 ## GitHub Repository
 
-https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+https://github.com/Jyotismita-15/popx-react-app
 
 ## Screens
 
